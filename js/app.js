@@ -6,10 +6,10 @@ let correcta = [2,2,1,1,0];
 
 let opciones = [];
 
-opciones.push(["SUDAFRICA", "SINGAPUR", "PANAMA"]);
-opciones.push(["PERU", "ITALIA", "BOLIVIA"]);
-opciones.push(["TUNEZ", "ANDORRA", "ANTIGUA Y BARBUDA"]);
-opciones.push(["UCRANIA", "REINO UNIDO", "MADAGASCAR"]);
+opciones.push(["SUDAFRICA", "COSTARICA", "PANAMA"]);
+opciones.push(["MEXICO", "ITALIA", "BOLIVIA"]);
+opciones.push(["TUNEZ", "ANDORRA", "PAISES BAJOS"]);
+opciones.push(["ESTADOS UNIDOS", "REINO UNIDO", "IRLANDA"]);
 opciones.push(["NAMIBIA", "OMAN", "ETIOPIA"]);
 
 
